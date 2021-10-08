@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o @nicolaspda
 - 👀 Sou apaixonado por tecnologia e inovações
-- 👓 Já desenvolvi algumas soluções na empresa que atuo em JS e criei um sistema de serviços para meu TCC 
+- 👓 Já desenvolvi algumas soluções em JS na empresa que atuo e criei um sistema de serviços para meu TCC
 - 🌱 Atualmente estou aprendendo VueJS e criando uma aplicação
 - 💞️ Procuro observar as tendências de desenvolvimento atuais e principalmente recursos envolvendo programação para a Web
 - 📫 Meu contato principal é nicolas.pda@hotmail.com
